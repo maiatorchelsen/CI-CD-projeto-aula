@@ -1,7 +1,7 @@
-name: CI Pipeline - Build e Teste (TS/Docker)
+name: CI Pipeline - Build (TS/Docker)
 
 on:
-  push:
+  #push:
   pull_request:
   workflow_dispatch:
 
